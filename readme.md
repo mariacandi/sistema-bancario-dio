@@ -22,7 +22,7 @@ A operação de extrato deve listar todos os depósitos e saques realizados na c
 
 Busquei resolver o exercício antes de ver a solução proposta pelo instrutor, portanto, meu código está disponível no arquivo `sistema-bancario.py`, enquanto a resolução do intrutor se encontra em `resolucao-instrutor.py`.
 
-Na minha resolução, além das variáveis fornecidas no template do instrutor, adicionei também as variáveis `deposito` e `saque`, e removi a variável `extrato`, pois a maneira que implementei o extrato é diferente da que o instrutor utilizou.
+Na minha resolução, além das variáveis fornecidas no template do instrutor, adicionei também as variáveis `deposito` e `saque`.
 
 ## Erros e acertos
 
